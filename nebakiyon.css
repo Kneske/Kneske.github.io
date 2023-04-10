@@ -139,10 +139,18 @@ button {
   background: linear-gradient(45deg, rgb(110, 18, 49), #D52);
   box-shadow: 0 4px 30px #D245;
 }
+.btn-green {
+  background: linear-gradient(45deg, rgb(110, 110, 50), #D52);
+  box-shadow: 0 4px 30px #D245;
+}
 .btn-blue:hover {
   box-shadow: 0 4px 30px #17DB;
 }
 .btn-orange:hover {
+  box-shadow: 0 4px 30px #D24B;
+}
+
+.btn-green:hover {
   box-shadow: 0 4px 30px #D24B;
 }
 button:hover {
